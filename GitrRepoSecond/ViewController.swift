@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("User 1 first change")
+
+        print("User 2 first change")
     }
 
 
